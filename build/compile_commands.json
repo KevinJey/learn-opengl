@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/junjiehu/learn-opengl/build",
+  "command": "/usr/bin/clang++  -I/Users/junjiehu/learn-opengl/third-party/glfw/include -I/Users/junjiehu/learn-opengl/third-party/glew/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -g -std=gnu++14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/LearnOpenGL.dir/main.cpp.o -c /Users/junjiehu/learn-opengl/main.cpp",
+  "file": "/Users/junjiehu/learn-opengl/main.cpp",
+  "output": "CMakeFiles/LearnOpenGL.dir/main.cpp.o"
+}
+]
